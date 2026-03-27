@@ -24,7 +24,7 @@
   #Naklonování repozitáře
   - name: Cloning Git repository
     ansible.builtin.git:
-      repo: 'https://github.com/JanMizera/MP-Automatizovana-instalace-a-sprava-Grafana-pomoci-Ansible.git'
+      repo: 'https://github.com/sposdknl/zbx7-grafana.git'
       dest: /opt/repo
 
   #Ukončení provisioningu
