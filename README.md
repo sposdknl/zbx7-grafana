@@ -1,12 +1,14 @@
-# MP-Automatizovaná instalace a správa Grafana pomocí Ansible
-
-Některé části mi byly poskytnuty a všechny převzaté části budou zmíněny v textu práce.
+# Zabbix vs Grafana automatizece
 
 ## Závislosti
 
-1. **Vagrant 2.4.9** – dostupné online na: https://developer.hashicorp.com/vagrant/install
-2. **VirtualBox 7.2.4** – dostupné online na: https://www.virtualbox.org/wiki/Downloads
+1. **Vagrant 2.4.9-1** – dostupné online na: https://developer.hashicorp.com/vagrant/install
+2. **VirtualBox 7.2.6** – dostupné online na: https://www.virtualbox.org/wiki/Downloads
 3. **Git 2.52.0** – dostupné online na: https://git-scm.com/install/
+4. **Docker 29.3.1-1** - dostupné online na: https://www.docker.com/get-started/
+5. **Zabbix 7.0.24 LTS** - dostupné online na: https://www.zabbix.com/download
+6. **Ansible 2.20.4** - dostupné online na: https://www.redhat.com/en/ansible-collaborative
+7. **Zabbix collection for Ansible 4.1.1** - dostupné online na: https://galaxy.ansible.com/ui/repo/published/community/zabbix/ 
 
 ## Návod ke spuštění
 
@@ -15,7 +17,7 @@ Stažení projektu pomocí příkazu `git clone` v prázdném adresáři:
 
 ```bash
 cd /cesta-k-vasemu-adresari/
-git clone [https://github.com/JanMizera/MP-Automatizovana-instalace-a-sprava-Grafana-pomoci-Ansible.git](https://github.com/JanMizera/MP-Automatizovana-instalace-a-sprava-Grafana-pomoci-Ansible.git)
+git clone [https://github.com/sposdknl/zbx7-grafana.git](https://github.com/sposdknl/zbx7-grafana.git)
 ```
 
 ### 2. Spuštění projektu
