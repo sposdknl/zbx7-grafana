@@ -20,8 +20,8 @@ Repository pro vyuku na SPOS DK
 Stažení projektu pomocí příkazu `git clone` v prázdném adresáři:
 
 ```bash
-cd /cesta-k-vasemu-adresari/
-git clone [https://github.com/sposdknl/zbx7-grafana.git](https://github.com/sposdknl/zbx7-grafana.git)
+cd work/spos/
+git clone https://github.com/sposdknl/zbx7-grafana.git
 ```
 
 ### 2. Spuštění projektu
