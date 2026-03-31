@@ -1,6 +1,10 @@
 # Zabbix vs Grafana automatizece
 
-## Závislosti
+Repository pro vyuku na SPOS DK
+
+![Zabbix & Grafana](./images/Futuristic_tech_cityscape_with_logos.png)
+
+### Závislosti
 
 1. **Vagrant 2.4.9-1** – dostupné online na: https://developer.hashicorp.com/vagrant/install
 2. **VirtualBox 7.2.6** – dostupné online na: https://www.virtualbox.org/wiki/Downloads
