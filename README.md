@@ -2,6 +2,8 @@
 
 Repository pro vyuku na SPOS DK
 
+Tento projekt vznikl jako klon [maturitní práce](https://prace.pslib.cz/ideas/6853), kterou vypracoval [Jan Mizera](https://github.com/JanMizera/MP-Automatizovana-instalace-a-sprava-Grafana-pomoci-Ansible) a polouží k výuce Ansible na SPOS DK. 
+
 ![Zabbix & Grafana](./images/Futuristic_tech_cityscape_with_logos.png)
 
 ### Závislosti
